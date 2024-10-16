@@ -2,12 +2,14 @@
 - 👀 I’m interested in working with Java, Javascript, Node.js, HTML, CSS
 - 🌱 I’m currently learning Computer science at the Universidade Federal da Bahia (UFBA)
 - 📫 How to reach me? just text me, salaroli1998@hotmail.com
+  
 
 - [ Hard Skills ]
 - Sistemas Operacionais: Linux, Windows
 - Bancos de Dados: MySQL, PostgreSQL
 - Front end: Html, Css, Drupal, Javascript
 - Back end: Java, Python, C, C++, Node JS
+  
 
 [Soft Skills]
 - Excelentes habilidades de liderança e coordenação de equipes multidisciplinares
