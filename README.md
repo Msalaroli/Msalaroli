@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Msalaroli
-- 👀 I’m interested in work
+- 👀 I’m interested in working with Java, Javascript, Node.js, HTML, CSS
 - 🌱 I’m currently learning Computer science at the Universidade Federal da Bahia (UFBA)
 - 📫 How to reach me? just text me, salaroli1998@hotmail.com
 
