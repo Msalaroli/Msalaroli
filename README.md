@@ -4,7 +4,7 @@
 - 📫 How to reach me? just text me, salaroli1998@hotmail.com
   
 
-- [ Hard Skills ]
+[ Hard Skills ]
 - Sistemas Operacionais: Linux, Windows
 - Bancos de Dados: MySQL, PostgreSQL
 - Front end: Html, Css, Drupal, Javascript
